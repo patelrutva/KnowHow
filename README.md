@@ -48,51 +48,51 @@ npm run prod
 
 ---
 
-<img src="img/g.png">
+<img src="img/Profile.png">
 
 ---
 
-<img src="img/e.png">
+<img src="img/UploadVideo.png">
 
 ---
 
-<img src="img/d.png">
+<img src="img/AddCourse.png">
 
 ---
 
 ## Student's Portal
 
-<img src="img/b.png">
+<img src="img/MyCourses.png">
 
 ---
 
-<img src="img/abc.png">
+<img src="img/CourseDetails.png">
 
 ---
 
-<img src="img/cc.png">
+<img src="img/RegisterCourse.png">
 
 ---
 
 ## Admin Portal
 
-<img src="img/aaa.png">
+<img src="img/Dashboard.png">
 
 ---
 
-<img src="img/bbb.png">
+<img src="img/EnrollmentList.png">
 
 ---
 
-<img src="img/ccc.png">
+<img src="img/CategoryList.png">
 
 ---
 
-<img src="img/ddd.png">
+<img src="img/ManageUsers.png">
 
 ---
 
-<img src="img/eee.png">
+<img src="img/EditUser.png">
 
 ---
 
